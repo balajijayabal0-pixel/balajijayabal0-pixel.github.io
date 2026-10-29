@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.portenergy.erp",
+        "sha256_cert_fingerprints": ["BD:0B:23:B3:B7:0B:35:39:20:3B:4E:B9:E2:FA:E6:40:39:38:5C:8D:DD:B1:A9:5E:1C:3B:01:61:F6:4F:E2:50"]
+      }
+    }]
